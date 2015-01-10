@@ -1,0 +1,26 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.0+'
+    }
+}
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 'android-21'
+    buildToolsVersion '21.1.1'
+
+    buildTypes {
+    }
+
+    defaultConfig {
+        versionCode 1
+        versionName "1.0"
+        minSdkVersion 19
+        targetSdkVersion 21
+    }
+    dependencies {
+    }
+}
