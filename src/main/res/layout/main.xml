@@ -21,5 +21,16 @@
         android:id="@+id/preview_button"
         android:text="@string/preview" />
 
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/day_dream_time_limit"
+        android:textSize="20sp"
+        />
+    <EditText
+        android:id="@+id/daydream_time_limit_edit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
 

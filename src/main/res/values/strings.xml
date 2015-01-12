@@ -4,4 +4,5 @@
     <string name="instruction">This Daydream (ScreenSaver) will prevent and alleviate the burn-in of AMOLED screen on many Samsung and Motorola phones. Click the button below to setup the daydream in the Android\'s Settings. Select the \"Burn-in Dream\" and set the \"When to daydream\" in the menu to \"Either\" to activate the daydream when the phone is on the charger.</string>
     <string name="set_up_daydream">Set up Daydream</string>
     <string name="preview">Preview</string>
+    <string name="day_dream_time_limit">Set the max daydream time in seconds</string>
 </resources>
